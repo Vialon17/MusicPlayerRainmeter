@@ -1,0 +1,131 @@
+{
+    "songs": [
+        {
+            "name": "Jolyne Theme (from \"Stone Ocean\")",
+            "id": 1871145751,
+            "pst": 0,
+            "t": 0,
+            "ar": [
+                {
+                    "id": 30875934,
+                    "name": "Samuel Kim",
+                    "tns": [],
+                    "alias": []
+                }
+            ],
+            "alia": [],
+            "pop": 80,
+            "st": 0,
+            "rt": "",
+            "fee": 8,
+            "v": 5,
+            "crbt": null,
+            "cf": "",
+            "al": {
+                "id": 132038632,
+                "name": "Jolyne Theme (from \"Stone Ocean\")",
+                "picUrl": "https://p2.music.126.net/8GIbFYkO1AQygFLUIODdfA==/109951166303230904.jpg",
+                "tns": [],
+                "pic_str": "109951166303230904",
+                "pic": 109951166303230910
+            },
+            "dt": 230318,
+            "h": {
+                "br": 320000,
+                "fid": 0,
+                "size": 9215085,
+                "vd": -55689
+            },
+            "m": {
+                "br": 192000,
+                "fid": 0,
+                "size": 5529069,
+                "vd": -53142
+            },
+            "l": {
+                "br": 128000,
+                "fid": 0,
+                "size": 3686061,
+                "vd": -51628
+            },
+            "a": null,
+            "cd": "01",
+            "no": 1,
+            "rtUrl": null,
+            "ftype": 0,
+            "rtUrls": [],
+            "djId": 0,
+            "copyright": 1,
+            "s_id": 0,
+            "mark": 270336,
+            "originCoverType": 0,
+            "originSongSimpleData": null,
+            "tagPicList": null,
+            "resourceState": true,
+            "version": 5,
+            "songJumpInfo": null,
+            "entertainmentTags": null,
+            "single": 0,
+            "noCopyrightRcmd": null,
+            "rtype": 0,
+            "rurl": null,
+            "mst": 9,
+            "cp": 1416692,
+            "mv": 0,
+            "publishTime": 1629388800000
+        }
+    ],
+    "privileges": [
+        {
+            "id": 1871145751,
+            "fee": 8,
+            "payed": 0,
+            "st": 0,
+            "pl": 128000,
+            "dl": 0,
+            "sp": 7,
+            "cp": 1,
+            "subp": 1,
+            "cs": false,
+            "maxbr": 999000,
+            "fl": 128000,
+            "toast": false,
+            "flag": 260,
+            "preSell": false,
+            "playMaxbr": 999000,
+            "downloadMaxbr": 999000,
+            "rscl": null,
+            "freeTrialPrivilege": {
+                "resConsumable": false,
+                "userConsumable": false
+            },
+            "chargeInfoList": [
+                {
+                    "rate": 128000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 0
+                },
+                {
+                    "rate": 192000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 1
+                },
+                {
+                    "rate": 320000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 1
+                },
+                {
+                    "rate": 999000,
+                    "chargeUrl": null,
+                    "chargeMessage": null,
+                    "chargeType": 1
+                }
+            ]
+        }
+    ],
+    "code": 200
+}
